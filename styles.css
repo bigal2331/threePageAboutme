@@ -1,0 +1,19 @@
+header {
+	background-color: black;
+	height: 50px;
+}
+
+nav {
+	float: right;
+	line-height: 30px;
+
+	
+}
+nav li {
+	display: inline-block;
+	margin-left: 1.5em;
+}
+
+nav li a {
+	color: white;
+}
