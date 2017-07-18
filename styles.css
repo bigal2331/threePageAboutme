@@ -3,6 +3,12 @@ header {
 	height: 50px;
 }
 
+#myInitials {	
+	color: white;
+	font-size: 50px;
+	vertical-align: center;
+}
+
 nav {
 	float: right;
 	line-height: 30px;
@@ -16,4 +22,14 @@ nav li {
 
 nav li a {
 	color: white;
+}
+
+#imgPortfolio {
+	padding-top: 50px;
+}
+#imgPortfolio img {
+	float: left;
+	padding-left: 10px;
+	padding-top: 10px;
+	width: 30%;
 }
