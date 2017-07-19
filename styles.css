@@ -1,3 +1,4 @@
+
 header {
 	background-color: black;
 	height: 50px;
@@ -7,6 +8,10 @@ header {
 	color: white;
 	font-size: 50px;
 	vertical-align: center;
+}
+
+#container {
+	text-align: center;
 }
 
 nav {
