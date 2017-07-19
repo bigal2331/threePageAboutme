@@ -4,6 +4,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
+	margin: 0 auto;
 }
 
 header {
@@ -44,4 +45,5 @@ nav li a {
 	padding-left: 10px;
 	padding-top: 10px;
 	width: 30%;
+	border: 1.5px solid white;
 }
