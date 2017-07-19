@@ -1,14 +1,18 @@
 
 body {
 	background-image: url("http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg ");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
 }
+
 header {
 	background-color: black;
 	height: 50px;
 }
 
 #myInitials {	
-	color: white;
+	
 	font-size: 50px;
 	vertical-align: center;
 }
